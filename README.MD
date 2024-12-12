@@ -41,3 +41,6 @@ Practice implementing interfaces, classes, and unique logic for different object
 Gain hands-on experience with TypeScript, especially in organizing and extending modular applications.
 License
 This project is licensed under the ISC License.
+
+## Walkthrough Video
+[Watch the walkthrough here](https://drive.google.com/file/d/1gMxv05c_npVk_7xQEcWxm7ymTw9b433L/view?usp=sharing)
